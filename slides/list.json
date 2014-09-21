@@ -1,7 +1,7 @@
 [
     "index.md",
-    "intro1.html",
     {
+        "filename": "intro1.html",
         "attr": {
             "data-background": "img/I-have-no-idea-what-I-am-doing.gif"
         }

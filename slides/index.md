@@ -1,10 +1,4 @@
 
-# Working with StyleGuides
+# Working on a multibranded StyleGuide
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+Randeep Dhaliwal

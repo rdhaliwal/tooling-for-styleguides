@@ -1,10 +1,22 @@
 [
     "index.md",
+    "intro1.html",
+    "intro2.html",
+    "intro3.html",
     {
-        "filename": "intro1.html",
+        "filename": "intro4.html",
         "attr": {
-            "data-background": "img/I-have-no-idea-what-I-am-doing.gif"
+            "data-background": "img/alan-rickman-mad.gif"
         }
     },
-    "intro2.html"
+    "intro5.html",
+    "intro6.html",
+    "intro7.html",
+    "intro8.html",
+    "styleguide-000.html",
+    "styleguide-000-2.html",
+    "styleguide-000-3.html",
+    "styleguide-000-4.html",
+    "styleguide-000-5.html",
+    "styleguide-000-6.html"
 ]

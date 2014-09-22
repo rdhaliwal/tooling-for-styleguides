@@ -1,4 +1,4 @@
 
-# Working on a multibranded StyleGuide
+# Some tooling for StyleGuides
 
 Randeep Dhaliwal

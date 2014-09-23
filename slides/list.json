@@ -1,12 +1,12 @@
 [
     "index.md",
     "intro1.html",
-    "intro2.html",
     "intro3.html",
+    "intro2.html",
     "styleguide-v0-1.html",
     "styleguide-v0-2.html",
-    "styleguide-v0-3.html",
     "styleguide-v0-3-1.html",
+    "styleguide-v0-3.html",
     "styleguide-v0-4.html",
     "styleguide-v0-5.html",
     "styleguide-v1-1.html",
@@ -34,5 +34,15 @@
     "styleguide-v3-4.html",
     "styleguide-v3-5.html",
     "styleguide-v3-6.html",
-    "styleguide-v3-7.html"
+    "styleguide-v3-7.html",
+    {
+        "attr": {
+            "data-background": "img/Great-Idea.gif"
+        }
+    },
+    "styleguide-v3-8.md",
+    "styleguide-v3-9.md",
+    "styleguide-v3-10.md",
+    "styleguide-v3-11.md",
+    "styleguide-v3-12.md"
 ]

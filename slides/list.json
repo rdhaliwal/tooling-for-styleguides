@@ -2,7 +2,6 @@
     "index.md",
     "intro1.html",
     "intro3.html",
-    "intro2.html",
     "styleguide-v0-1.html",
     "styleguide-v0-2.html",
     "styleguide-v0-3-1.html",
@@ -44,5 +43,6 @@
     "styleguide-v3-9.md",
     "styleguide-v3-10.md",
     "styleguide-v3-11.md",
-    "styleguide-v3-12.md"
+    "styleguide-v3-12.md",
+    "styleguide-v4-1.html"
 ]

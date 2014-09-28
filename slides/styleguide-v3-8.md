@@ -14,15 +14,15 @@
                 - modal.js
                 etc.
         - brands
-            - aami
+            - brand1
                 - css
-                    - base--aami.less
-                    - buttons--aami.less
+                    - base--brand1.less
+                    - buttons--brand1.less
                     etc.
-            - suncorp
+            - brand2
                 - css
-                    - base--suncorp.less
-                    - buttons--suncorp.less
+                    - base--brand2.less
+                    - buttons--brand2.less
                     etc.
 
 ```

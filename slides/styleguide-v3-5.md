@@ -1,7 +1,6 @@
 ## Distribution problem solved!
 
-Sample bower.json file:
-
+Create a bower.json file like this:
 ```json
 {
     "name": "some-app",
@@ -14,3 +13,9 @@ Sample bower.json file:
     }
 }
 ```
+
+Then just run
+```bash
+bower install
+```
+and done!

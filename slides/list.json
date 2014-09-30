@@ -2,8 +2,8 @@
     "index.md",
     "intro1.html",
     "intro3.html",
+    "intro2.html",
     {
-        "filename" : "intro2.html",
         "attr": {
             "data-background": "img/I-have-no-idea-what-I-am-doing.gif"
         }
@@ -14,16 +14,22 @@
     "styleguide-v0-3.html",
     "styleguide-v0-4.html",
     "styleguide-v0-5.html",
-    "styleguide-v1-1.html",
+    { "attr": { "data-background": "img/everything-is-awesome.gif" } },
     "styleguide-v1-2.html",
     "styleguide-v1-3.html",
     "styleguide-v1-4.html",
     "styleguide-v1-5.html",
     "styleguide-v1-6.html",
-    "styleguide-v1-7.html",
-    "styleguide-v1-8.html",
+    { "attr": { "data-background": "img/bower-is-awesome.gif" } },
+    { "attr": { "data-background": "img/alan-rickman-mad.gif" } },
     "styleguide-v1-9.html",
-    "styleguide-v2-1.html",
+    {
+        "filename": "styleguide-v2-1.html",
+        "attr" : {
+            "data-background" : "img/everything-is-awesome.gif"
+        }
+
+    },
     "styleguide-v2-2.html",
     "styleguide-v2-3.html",
     "styleguide-v2-4.html",
@@ -38,6 +44,7 @@
     "styleguide-v3-1.html",
     "styleguide-v3-2.html",
     "styleguide-v3-3.html",
+    { "attr": { "data-background": "img/yes-excited.gif" } },
     "styleguide-v3-4.html",
     "styleguide-v3-5.md",
     "styleguide-v3-6.html",

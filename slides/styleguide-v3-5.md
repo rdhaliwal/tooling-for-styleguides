@@ -1,4 +1,4 @@
-## Distribution problem solved!
+## Bower
 
 Create a bower.json file like this:
 ```json

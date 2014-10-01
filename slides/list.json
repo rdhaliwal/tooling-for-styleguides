@@ -20,6 +20,7 @@
     "styleguide-v1-4.html",
     "styleguide-v1-5.html",
     "styleguide-v1-6.html",
+    "styleguide-v3-5.md",
     { "attr": { "data-background": "img/bower-is-awesome.gif" } },
     { "attr": { "data-background": "img/alan-rickman-mad.gif" } },
     "styleguide-v1-9.html",
@@ -44,9 +45,8 @@
     "styleguide-v3-1.html",
     "styleguide-v3-2.html",
     "styleguide-v3-3.html",
-    { "attr": { "data-background": "img/yes-excited.gif" } },
     "styleguide-v3-4.html",
-    "styleguide-v3-5.md",
+    { "attr": { "data-background": "img/yes-excited.gif" } },
     "styleguide-v3-6.html",
     "styleguide-v3-7.html",
     {
@@ -70,7 +70,13 @@
     },
     "styleguide-v3-11-yeoman-3.md",
     "styleguide-v3-11-yeoman-4.md",
-    "styleguide-v3-12-0.md",
+    {
+        "filename": "styleguide-v3-12-0.md",
+        "attr" : {
+            "data-background" : "img/fight-fight-fight.gif"
+        }
+
+    },
     "styleguide-v3-9-1.md",
     "styleguide-v3-12.md",
     "styleguide-v4-1.html",
